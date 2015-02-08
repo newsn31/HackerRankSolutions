@@ -19,26 +19,32 @@ Output Format
 Output S, the number that occurs only once.
 
 Sample Input:1
-
+```
 1
 1
+```
 Sample Output:1
-
+```
 1
+```
 Sample Input:2
-
+```
 3
 1 1 2
+```
 Sample Output:2
-
+```
 2
+```
 Sample Input:3
-
+```
 5
 0 0 1 2 1
+```
 Sample Output:3
-
+```
 2
+```
 Explanation
 
 In the first input, we see only one element and that element is the answer (1). 
