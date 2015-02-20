@@ -50,3 +50,5 @@ Explanation
 In the first input, we see only one element and that element is the answer (1). 
 In the second input, we see three elements, one is repeated twice (1); the element that occurs only once is 2. 
 In the third input, we see five elements. 1 and 0 are repeated twice; the element that occurs only once is 2.
+
+Copyright (c) 2015 HackerRank. All Rights Reserved
